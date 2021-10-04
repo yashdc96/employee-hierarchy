@@ -1,0 +1,152 @@
+{
+    "People": [
+        {
+            "type": "Head of staff/HR",
+            "headId": "pallavi@commutatus.com",
+            "headName": "Pallavi Joshi",
+            "teams": [
+                {
+                    "name": "Merc",
+                    "employees": [
+                        {
+                            "id": "jw@commutatus.com",
+                            "position": "Developer",
+                            "name": "John Wick",
+                            "thumb": "/images/avatar.jpg"
+                        },
+                        {
+                            "id": "rmc@commutatus.com",
+                            "position": "Developer",
+                            "name": "Robert McCall",
+                            "thumb": "/images/avatar.jpg"
+                        },
+                        {
+                            "id": "cwolf@commutatus.com",
+                            "position": "Developer",
+                            "name": "Christian Wolff",
+                            "thumb": "/images/avatar.jpg"
+                        }
+                    ]
+                },
+                {
+                    "name": "Action",
+                    "employees": [
+                        {
+                            "id": "term@commutatus.com",
+                            "position": "Quality Assurance",
+                            "name": "Terminator",
+                            "thumb": "/images/avatar.jpg"
+                        },
+                        {
+                            "id": "rmb@commutatus.com",
+                            "position": "Quality Assurance",
+                            "name": "Rambo",
+                            "thumb": "/images/avatar.jpg"
+                        },
+                        {
+                            "id": "vdam@commutatus.com",
+                            "position": "Quality Assurance",
+                            "name": "Van Damme",
+                            "thumb": "/images/avatar.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Head of engineering",
+            "headId": "tchalla@commutatus.com",
+            "headName": "T'challa",
+            "teams": [
+                {
+                    "name": "Marvel",
+                    "employees": [
+                        {
+                            "id": "nirani@commutatus.com",
+                            "position": "Developer",
+                            "name": "Neil Irani",
+                            "thumb": "/images/avatar.jpg"
+                        },
+                        {
+                            "id": "nirani2@commutatus.com",
+                            "position": "Developer",
+                            "name": "Tony Stark",
+                            "thumb": "/images/avatar.jpg"
+                        },
+                        {
+                            "id": "nirani3@commutatus.com",
+                            "position": "Developer",
+                            "name": "Rogers",
+                            "thumb": "/images/avatar.jpg"
+                        }
+                    ]
+                },
+                {
+                    "name": "DC",
+                    "employees": [
+                        {
+                            "id": "rirani5@commutatus.com",
+                            "position": "Developer",
+                            "name": "Clark Kent",
+                            "thumb": "/images/avatar.jpg"
+                        },
+                        {
+                            "id": "rirani6@commutatus.com",
+                            "position": "Developer",
+                            "name": "Bruce Wayne",
+                            "thumb": "/images/avatar.jpg"
+                        },
+                        {
+                            "id": "rirani7@commutatus.com",
+                            "position": "Developer",
+                            "name": "Barry Allen",
+                            "thumb": "/images/avatar.jpg"
+                        },
+                        {
+                            "id": "rirani8@commutatus.com",
+                            "position": "Developer",
+                            "name": "Diana Prince",
+                            "thumb": "/images/avatar.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Head of design",
+            "headId": "tholland@commutatus.com",
+            "headName": "Tom Holland",
+            "teams": [
+                {
+                    "name": "Toms",
+                    "employees": [
+                        {
+                            "id": "thanks1@commutatus.com",
+                            "position": "Program Directory",
+                            "name": "Tom Hanks",
+                            "thumb": "/images/avatar.jpg"
+                        },
+                        {
+                            "id": "thanks2@commutatus.com",
+                            "position": "Program Directory",
+                            "name": "Tom Cruise",
+                            "thumb": "/images/avatar.jpg"
+                        },
+                        {
+                            "id": "thanks3@commutatus.com",
+                            "position": "Program Directory",
+                            "name": "Tom Hardy",
+                            "thumb": "/images/avatar.jpg"
+                        },
+                        {
+                            "id": "thanks4@commutatus.com",
+                            "position": "Program Directory",
+                            "name": "Tom Hiddleston",
+                            "thumb": "/images/avatar.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
